@@ -156,7 +156,7 @@ AI 润色不可能完美。如果你发现不通顺或译错的句子，请务�
 
 ## 安装
 
-1. 下载 `ZhPolish.pak`
+1. 下载 [`ZhPolish.pak`](../../raw/main/ZhPolish.pak)
 2. 放入 `%LocalAppData%\Larian Studios\Baldur's Gate 3\Mods`
 3. 在模组管理器中启用（例如 BG3 Mod Manager）
 4. 游戏语言设为简体中文
